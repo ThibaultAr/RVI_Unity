@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/tp6-camera.unity
+  isLoaded: 1
+  isActive: 1
